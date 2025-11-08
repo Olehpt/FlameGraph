@@ -1,0 +1,3 @@
+demoCompiled;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;work_heavy;busy_loop 1444444430
+demoCompiled;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;work_light;busy_loop 343434340
+demoCompiled;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;work_medium;busy_loop 676767670
