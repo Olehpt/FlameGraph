@@ -1,0 +1,451 @@
+____________________________________________________________________
+			P o w e r T O P
+
+____________________________________________________________________
+ *  *  *   System Information   *  *  *
+
+PowerTOP Version;2.15 ran at Sat Nov  8 14:58:27 2025
+
+Kernel Version;Linux version 6.14.0-33-generic
+System Name;Oracle CorporationVirtualBox1.2
+CPU Information;6 Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+OS Information;Ubuntu 24.04.2 LTS
+
+Target: 1 units/s;System:  265.2 wakeup/s;CPU:  11.5% usage;GPU: 0 ops/s;GFX: 0 wakeups/s;VFS: 0 ops/s;
+
+____________________________________________________________________
+ *  *  *   Top 10 Power Consumers   *  *  *
+
+Usage;Events/s;Category;Description
+  1.1%;111.5;Process;[PID 1739] /usr/bin/gnome-shell 
+  0.1%; 51.3;Timer;tick_nohz_handler
+  8.1%; 0.15;Process;[PID 8559] apt-check
+  0.0%; 13.3;Interrupt;[7] sched(softirq)
+  0.0%; 13.2;Process;[PID 18] [rcu_preempt]
+  0.0%;  8.4;Timer;inactive_task_timer
+  0.0%;  7.8;kWork;commit_work
+  0.0%;  7.1;Timer;hrtimer_wakeup
+  0.0%;  6.7;kWork;psi_avgs_work
+  0.0%;  5.7;Process;[PID 1236] /usr/bin/VBoxDRMClient 
+
+____________________________________________________________________
+ *  *  *   Processor Idle State Report   *  *  *
+
+Package;0
+C2 (pc2);  0.0%
+C3 (pc3);  0.0%
+C6 (pc6);  0.0%
+C7 (pc7);  0.0%
+C8 (pc8);  0.0%
+C9 (pc9);  0.0%
+C10 (pc10);  0.0%
+;
+;
+;
+;
+;
+
+;Core 0
+C3 (cc3);  0.0%
+C6 (cc6);  0.0%
+C7 (cc7);  0.0%
+;Core 1
+C3 (cc3);  0.0%
+C6 (cc6);  0.0%
+C7 (cc7);  0.0%
+;Core 2
+C3 (cc3);  0.0%
+C6 (cc6);  0.0%
+C7 (cc7);  0.0%
+;Core 3
+C3 (cc3);  0.0%
+C6 (cc6);  0.0%
+C7 (cc7);  0.0%
+;Core 4
+C3 (cc3);  0.0%
+C6 (cc6);  0.0%
+C7 (cc7);  0.0%
+;Core 5
+C3 (cc3);  0.0%
+C6 (cc6);  0.0%
+C7 (cc7);  0.0%
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+CPU;0
+C0 active;100.0%;
+;
+;
+;
+;
+;
+;
+;
+CPU;1
+C0 active;100.0%;
+;
+;
+;
+;
+;
+;
+;
+CPU;2
+C0 active;100.0%;
+;
+;
+;
+;
+;
+;
+;
+CPU;3
+C0 active;100.0%;
+;
+;
+;
+;
+;
+;
+;
+CPU;4
+C0 active;100.0%;
+;
+;
+;
+;
+;
+;
+;
+CPU;5
+C0 active;100.0%;
+;
+;
+;
+;
+;
+;
+;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+
+____________________________________________________________________
+ *  *  *   Processor Frequency Report   *  *  *
+
+Package;0
+Idle;   inf% 
+;
+;
+;
+
+;Core 0
+Idle;   inf% 
+;Core 1
+Idle;   inf% 
+;Core 2
+Idle;   inf% 
+;Core 3
+Idle;   inf% 
+;Core 4
+Idle;   inf% 
+;Core 5
+Idle;   inf% 
+
+CPU 0
+Average;2.8 GHz
+Idle;   inf% 
+CPU 1
+Average;2.8 GHz
+Idle;   inf% 
+CPU 2
+Average;2.8 GHz
+Idle;   inf% 
+CPU 3
+Average;2.8 GHz
+Idle;   inf% 
+CPU 4
+Average;2.8 GHz
+Idle;   inf% 
+CPU 5
+Average;2.8 GHz
+Idle;   inf% 
+;
+;
+;
+;
+;
+;
+
+____________________________________________________________________
+ *  *  *   Overview of Software Power Consumers   *  *  *
+
+Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description
+ 11.0 ms/s;111.5;;;;Process;[PID 1739] /usr/bin/gnome-shell 
+  0.8 ms/s; 51.3;;;;Timer;tick_nohz_handler
+ 80.7 ms/s; 0.15;;;;Process;[PID 8559] apt-check
+331.7 us/s; 13.3;;;;Interrupt;[7] sched(softirq)
+130.1 us/s; 13.2;;;;Process;[PID 18] [rcu_preempt]
+ 59.5 us/s;  8.4;;;;Timer;inactive_task_timer
+113.9 us/s;  7.8;;;;kWork;commit_work
+143.8 us/s;  7.1;;;;Timer;hrtimer_wakeup
+ 53.1 us/s;  6.7;;;;kWork;psi_avgs_work
+280.3 us/s;  5.7;;;;Process;[PID 1236] /usr/bin/VBoxDRMClient 
+  0.9 ms/s;  3.3;;;;Interrupt;[20] vboxguest
+101.2 us/s;  3.6;;;;Process;[PID 8551] powertop --csv=output.csv -t 20 
+ 51.1 us/s;  2.6;;;;Timer;posix_timer_fn
+  3.9 ms/s;  0.7;;;;Process;[PID 2716] /usr/libexec/gnome-terminal-server 
+112.3 us/s;  1.9;;;;Process;[PID 1253] /usr/bin/VBoxDRMClient 
+ 51.6 us/s;  1.9;;;;Process;[PID 68] [kcompactd0]
+ 61.7 us/s;  1.8;;;;Process;[PID 2585] /usr/bin/VBoxDRMClient 
+ 60.7 us/s;  1.8;;;;Process;[PID 2584] /usr/bin/VBoxClient --vmsvga-session 
+  3.3 ms/s; 0.05;;;;Process;[PID 8570] package-system-
+  3.3 ms/s; 0.05;;;;Process;[PID 8571] package-system-
+ 17.2 us/s;  1.3;;;;Process;[PID 1317] /usr/lib/snapd/snapd 
+  8.3 us/s;  1.3;;;;Timer;watchdog_timer_fn
+461.2 us/s;  1.0;;;;Process;[PID 2876] gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@r
+  3.0 ms/s;;;;;Process;[PID 8569] fuser
+150.9 us/s;  1.0;;;;Process;[PID 8567] gdbus
+ 68.5 us/s;  1.0;;;;Timer;timerfd_tmrproc
+ 32.0 us/s;  0.9;;;;Process;[PID 2269] /usr/libexec/gvfs-afc-volume-monitor 
+367.0 us/s;  0.7;;;;Process;[PID 8564] pkexec
+183.3 us/s;  0.7;;;;Process;[PID 4085] /usr/lib/systemd/systemd-oomd 
+185.3 us/s;  0.7;;;;Process;[PID 934] @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only 
+ 10.2 us/s;  0.5;;;;kWork;vmstat_shepherd
+627.8 us/s; 0.30;;;;Process;[PID 3929] /usr/lib/systemd/systemd-udevd 
+205.1 us/s;  0.4;;;;Process;[PID 2648] /usr/bin/update-notifier 
+ 70.6 us/s;  0.5;;;;Process;[PID 1064] /usr/lib/polkit-1/polkitd --no-debug 
+363.7 us/s;  0.3;;;;Process;[PID 953] /usr/lib/polkit-1/polkitd --no-debug 
+ 35.6 us/s;  0.4;;;;kWork;flush_memcg_stats_dwork
+ 16.5 us/s;  0.4;;;;Process;[PID 2825] /usr/libexec/fwupd/fwupd 
+ 26.8 us/s;  0.4;;;;Process;[PID 979] /usr/libexec/accounts-daemon 
+ 19.8 us/s;  0.4;;;;Interrupt;[15] ata_piix
+  4.4 us/s;  0.4;;;;kWork;wb_workfn
+  2.5 us/s;  0.4;;;;kWork;delayed_vfree_work
+  1.5 us/s;  0.4;;;;kWork;neigh_managed_work
+ 25.3 us/s;  0.3;;;;Process;[PID 8564] package-system-
+ 15.6 us/s;  0.3;;;;Interrupt;[21] ahci[0000:00:0d.0]
+  0.0 us/s;  0.3;;;;kWork;disk_events_workfn
+ 54.9 us/s; 0.30;;;;Process;[PID 2880] gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@r
+  0.8 ms/s;;;;;Process;[PID 8559] nice
+  2.7 us/s; 0.30;;;;kWork;kfree_rcu_monitor
+ 45.5 us/s; 0.25;;;;Process;[PID 3610] /usr/lib/systemd/systemd-journald 
+ 37.3 us/s; 0.25;;;;Process;[PID 1] /usr/lib/systemd/systemd --system --deserialize=36 splash 
+151.1 us/s; 0.20;;;;kWork;e1000_watchdog
+ 22.2 us/s; 0.25;;;;Process;[PID 999] /usr/lib/polkit-1/polkitd --no-debug 
+ 16.1 us/s; 0.25;;;;Process;[PID 2662] /usr/bin/update-notifier 
+ 14.9 us/s; 0.25;;;;Process;[PID 1274] /usr/sbin/NetworkManager --no-daemon 
+ 14.5 us/s; 0.25;;;;Process;[PID 2466] /usr/libexec/xdg-desktop-portal 
+  6.0 us/s; 0.25;;;;Process;[PID 8566] gmain
+  5.4 us/s; 0.25;;;;Process;[PID 8565] pool-spawner
+  4.9 us/s; 0.25;;;;Interrupt;[3] net_rx(softirq)
+500.8 us/s; 0.05;;;;Process;[PID 8569] package-system-
+596.1 us/s;;;;;Process;[PID 590] [kworker/u26:4]
+ 24.6 us/s; 0.20;;;;Process;[PID 1551] /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only 
+ 15.1 us/s; 0.20;;;;Process;[PID 2823] /usr/libexec/fwupd/fwupd 
+  8.3 us/s; 0.20;;;;Process;[PID 8364] /usr/libexec/packagekitd 
+  5.1 us/s; 0.20;;;;Process;[PID 1516] postgres: 16/main: background writer                                                                                
+  5.0 us/s; 0.20;;;;Process;[PID 2350] postgres: 16/main: walwriter                                                                                        
+ 45.4 us/s; 0.15;;;;Process;[PID 1050] /usr/libexec/udisks2/udisksd 
+  2.0 us/s; 0.15;;;;kWork;blk_mq_requeue_work
+  1.8 us/s; 0.15;;;;Process;[PID 27] [ksoftirqd/1]
+  1.8 us/s; 0.15;;;;Process;[PID 1568] /usr/libexec/rtkit-daemon 
+  0.6 us/s; 0.15;;;;kWork;blk_mq_timeout_work
+  0.3 us/s; 0.15;;;;kWork;neigh_periodic_work
+245.8 us/s; 0.05;;;;Process;[PID 8564] update-notifier
+ 90.4 us/s; 0.10;;;;Process;[PID 8560] apt-check
+204.1 us/s; 0.05;;;;Process;[PID 8572] postgres
+ 32.1 us/s; 0.10;;;;Process;[PID 1502] /usr/lib/postgresql/16/bin/postgres -D /var/lib/postgresql/16/main -c config_file=/etc/postgresql/16/main/postgresql
+ 16.7 us/s; 0.10;;;;Interrupt;[4] block(softirq)
+140.2 us/s; 0.05;;;;Process;[PID 8558] systemd-udevd
+133.7 us/s; 0.05;;;;Process;[PID 8557] systemd-udevd
+  7.0 us/s; 0.10;;;;Process;[PID 2351] postgres: 16/main: autovacuum launcher                                                                              
+  6.9 us/s; 0.10;;;;Process;[PID 258] [jbd2/sda2-8]
+  6.6 us/s; 0.10;;;;Process;[PID 1442] /usr/lib/snapd/snapd 
+  5.9 us/s; 0.10;;;;Process;[PID 933] avahi-daemon: running [olehpt-VirtualBox.local] 
+  5.1 us/s; 0.10;;;;Process;[PID 1500] /usr/sbin/cups-browsed 
+  3.2 us/s; 0.10;;;;Process;[PID 1001] /usr/sbin/rsyslogd -n -iNONE 
+  2.8 us/s; 0.10;;;;Process;[PID 1065] /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev 
+  0.3 us/s; 0.10;;;;kWork;kfree_rcu_work
+110.6 us/s; 0.05;;;;Process;[PID 8562] apt-check
+102.7 us/s; 0.05;;;;Process;[PID 8563] apt-check
+ 96.1 us/s; 0.05;;;;Process;[PID 8561] apt-check
+ 65.4 us/s; 0.05;;;;Process;[PID 8559] update-notifier
+147.8 us/s;;;;;Interrupt;[9] RCU(softirq)
+ 21.1 us/s; 0.05;;;;Process;[PID 8558] (udev-worker)
+ 20.8 us/s; 0.05;;;;Process;[PID 8557] (udev-worker)
+  9.9 us/s; 0.05;;;;Process;[PID 4390] /usr/lib/systemd/systemd-resolved 
+  5.9 us/s; 0.05;;;;Process;[PID 2007] /usr/libexec/gsd-color 
+  5.5 us/s; 0.05;;;;Process;[PID 1567] /usr/libexec/rtkit-daemon 
+  4.4 us/s; 0.05;;;;Process;[PID 8567] pkexec
+  4.3 us/s; 0.05;;;;Process;[PID 8568] polkitd
+  4.2 us/s; 0.05;;;;Process;[PID 8566] pkexec
+  3.4 us/s; 0.05;;;;Process;[PID 8548] pool-gnome-shel
+
+____________________________________________________________________
+ *  *  *   Device Power Report   *  *  *
+
+Usage;Device Name
+ 11.6%;CPU misc
+ 11.6%;CPU core
+ 11.6%;DRAM
+100.0%;USB device: OHCI PCI host controller
+100.0%;USB device: USB Tablet (VirtualBox)
+100.0%;PCI Device: Intel Corporation 82371AB/EB/MB PIIX4 ACPI
+100.0%;PCI Device: Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]
+100.0%;PCI Device: Intel Corporation 82371SB PIIX3 ISA [Natoma/Triton II]
+100.0%;PCI Device: InnoTek Systemberatung GmbH VirtualBox Guest Service
+100.0%;PCI Device: Intel Corporation 82540EM Gigabit Ethernet Controller
+100.0%;PCI Device: Intel Corporation 82371AB/EB/MB PIIX4 IDE
+100.0%;PCI Device: Intel Corporation 82801FB/FBM/FR/FW/FRW (ICH6 Family) USB2 EHCI Controller
+100.0%;PCI Device: VMware SVGA II Adapter
+100.0%;PCI Device: Intel Corporation 82801AA AC'97 Audio Controller
+100.0%;PCI Device: Apple Inc. KeyLargo/Intrepid USB
+100.0%;PCI Device: Intel Corporation 440FX - 82441FX PMC [Natoma]
+  0.0 pkts/s;Network interface: enp0s3 (e1000)
+  0.0%;USB device: EHCI Host Controller
+  0.0%;runtime-alarmtimer.0.auto
+  0.0%;runtime-reg-dummy
+  0.0%;runtime-kgdboc
+  0.0%;runtime-ACPI0003:00
+  0.0%;runtime-rtc_cmos
+  0.0%;runtime-intel_rapl_msr.0
+  0.0%;runtime-Fixed MDIO bus.0
+  0.0%;runtime-serial8250
+  0.0%;runtime-i8042
+  0.0%;runtime-pcspkr
+  0.0%;I2C Adapter (i2c-0): SMBus PIIX4 adapter at 4100
+____________________________________________________________________
+ *  *  *   Process Device Activity   *  *  *
+
+Process;Device
+systemd;/dev/autofs
+;/dev/dri/card0
+;/dev/input/event0
+;/dev/input/event1
+;/dev/input/event2
+;/dev/input/event3
+;/dev/input/event4
+;/dev/input/event5
+;/dev/input/event6
+;/dev/kmsg
+;/dev/rfkill
+systemd-logind;/dev/dri/card0
+;/dev/input/event0
+;/dev/input/event0
+;/dev/input/event1
+;/dev/input/event1
+;/dev/input/event2
+;/dev/input/event2
+;/dev/input/event3
+;/dev/input/event4
+;/dev/input/event5
+;/dev/input/event6
+VBoxDRMClient;/dev/dri/renderD128
+;/dev/vboxuser
+pipewire;/dev/snd/seq
+;/dev/snd/seq
+wireplumber;/dev/snd/controlC0
+xdg-document-po;/dev/fuse
+gvfsd-fuse;/dev/fuse
+gnome-shell;/dev/dri/card0
+;/dev/dri/card0
+;/dev/dri/card0
+;/dev/dri/card0
+;/dev/input/event0
+;/dev/input/event1
+;/dev/input/event2
+;/dev/input/event3
+;/dev/input/event4
+;/dev/input/event5
+;/dev/input/event6
+gsd-rfkill;/dev/rfkill
+;/dev/rfkill
+VBoxClient;/dev/vboxuser
+;/dev/vboxuser
+;/dev/vboxuser
+;/dev/vboxuser
+systemd-journal;/dev/kmsg
+;/dev/kmsg
+
+____________________________________________________________________
+ *  *  *   AHCI ALPM Residency Statistics - Not supported on this macine   *  *  *
+
+____________________________________________________________________
+ *  *  *   Software Settings in Need of Tuning   *  *  *
+
+Description;Script
+Enable SATA link power management for host2;echo 'med_power_with_dipm' > '/sys/class/scsi_host/host2/link_power_management_policy';
+VM writeback timeout;echo '1500' > '/proc/sys/vm/dirty_writeback_centisecs';
+Autosuspend for USB device USB Tablet [VirtualBox];echo 'auto' > '/sys/bus/usb/devices/2-1/power/control';
+Runtime PM for PCI Device Intel Corporation 82540EM Gigabit Ethernet Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:03.0/power/control';
+Runtime PM for PCI Device Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:0d.0/power/control';
+Runtime PM for port ata3 of PCI device: Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:0d.0/ata3/power/control';
+Runtime PM for disk sda;echo 'auto' > '/sys/block/sda/device/power/control';
+Runtime PM for PCI Device Intel Corporation 82371SB PIIX3 ISA [Natoma/Triton II];echo 'auto' > '/sys/bus/pci/devices/0000:00:01.0/power/control';
+Runtime PM for PCI Device InnoTek Systemberatung GmbH VirtualBox Guest Service;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.0/power/control';
+Runtime PM for PCI Device Intel Corporation 82371AB/EB/MB PIIX4 ACPI;echo 'auto' > '/sys/bus/pci/devices/0000:00:07.0/power/control';
+Runtime PM for PCI Device Intel Corporation 440FX - 82441FX PMC [Natoma];echo 'auto' > '/sys/bus/pci/devices/0000:00:00.0/power/control';
+Runtime PM for PCI Device Intel Corporation 82371AB/EB/MB PIIX4 IDE;echo 'auto' > '/sys/bus/pci/devices/0000:00:01.1/power/control';
+Runtime PM for port ata1 of PCI device: Intel Corporation 82371AB/EB/MB PIIX4 IDE;echo 'auto' > '/sys/bus/pci/devices/0000:00:01.1/ata1/power/control';
+Runtime PM for port ata2 of PCI device: Intel Corporation 82371AB/EB/MB PIIX4 IDE;echo 'auto' > '/sys/bus/pci/devices/0000:00:01.1/ata2/power/control';
+Runtime PM for PCI Device Apple Inc. KeyLargo/Intrepid USB;echo 'auto' > '/sys/bus/pci/devices/0000:00:06.0/power/control';
+Runtime PM for PCI Device Intel Corporation 82801FB/FBM/FR/FW/FRW (ICH6 Family) USB2 EHCI Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:0b.0/power/control';
+Runtime PM for PCI Device VMware SVGA II Adapter;echo 'auto' > '/sys/bus/pci/devices/0000:00:02.0/power/control';
+Runtime PM for PCI Device Intel Corporation 82801AA AC'97 Audio Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:05.0/power/control';
+____________________________________________________________________
+ *  *  *   Untunable Software Issues   *  *  *
+
+Description
+I2C Adapter i2c-0 has no runtime power management
+____________________________________________________________________
+ *  *  *   Optimal Tuned Software Settings   *  *  *
+
+Description
+NMI watchdog should be turned off
+Autosuspend for USB device OHCI PCI host controller [usb2]
+Autosuspend for USB device EHCI Host Controller [usb1]
+
+____________________________________________________________________
+ *  *  *   Wake status of the devices   *  *  *
+
+Description;Script
+Wake status for USB device usb1;echo 'enabled' > '/sys/bus/usb/devices/usb1/power/wakeup';
+Wake status for USB device usb2;echo 'enabled' > '/sys/bus/usb/devices/usb2/power/wakeup';
