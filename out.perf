@@ -1,0 +1,1952 @@
+demoCompiled    4633  1734.536908:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.547642:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.557400:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.567912:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.577717:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.587687:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.598209:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.607992:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.618683:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.628466:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.638204:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.650908:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.658700:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.668460:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.679194:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.688957:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.698721:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.709450:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.719210:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.728976:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.739708:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.749466:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.760223:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.770004:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.779763:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.790458:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.800223:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.809984:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.819865:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.830474:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.840247:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.850970:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.860732:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.870501:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.881226:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.890988:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.900760:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.911048:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.921782:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.931547:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.941305:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.952042:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.961813:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.971573:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.982307:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1734.992104:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.001867:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.012562:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.022291:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.032052:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.042785:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.052620:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.062370:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.073076:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.082842:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.093572:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.103331:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.113093:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.123826:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.133585:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.143313:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.153606:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.163367:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.173616:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.184339:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.194105:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.204804:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.214566:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.224322:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.234966:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.244820:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.254580:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.265314:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.275085:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.284837:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.295570:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.305337:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.315093:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.325826:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.536106:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.545862:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.556626:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.566388:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.576229:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.586884:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.596606:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.607197:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.617072:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.626830:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.637560:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.647322:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.658060:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.667821:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.677581:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.688315:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.698077:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.707837:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.718593:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.728331:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.738094:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.748827:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.758616:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.769323:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.780091:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.790822:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.800589:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.810346:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.823043:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.830858:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.840605:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.851339:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.861102:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.870865:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.881595:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.891321:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.902065:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.911821:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.921583:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.932313:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.942144:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.951848:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.962643:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.972367:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.982128:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1735.992862:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.002620:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.012382:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.023123:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.032879:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.042639:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.053340:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.063109:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.073863:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.083623:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.093386:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.104094:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.113879:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.123613:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.134347:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.144118:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.153871:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.164687:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.174049:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.184158:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.194892:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.204652:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.214416:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.225151:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.234910:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.244670:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.255405:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.265184:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.275900:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.285697:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.295428:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.306156:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.315918:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.325689:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.336412:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.346176:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.575694:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.585416:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.596186:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.605951:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.615709:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.626445:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.636206:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.646001:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.656738:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.666458:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.676222:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.686955:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.696714:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.706477:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.717213:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.726973:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.737072:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.747483:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.758212:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.767986:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.777722:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.790425:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.798254:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.808003:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.817778:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.828496:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.838240:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.848040:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.858731:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.868131:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.878825:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.888583:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.899362:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.909083:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.918864:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.929576:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.939340:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.949099:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.959854:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.969592:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.979342:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1736.991102:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.000876:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.011564:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.021360:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.032055:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.041799:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.051972:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.062312:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.072989:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e0118b work_heavy+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011d7 main+0x1f (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.082779:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.092877:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.103115:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.114008:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.123802:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.134535:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.144298:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.154053:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.164832:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.174595:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.184353:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.195103:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.204850:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.214723:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.225488:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.235245:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.245004:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.255750:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.265536:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.275339:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.286031:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.295809:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011a0 work_medium+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011e1 main+0x29 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.306534:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.316290:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.326049:   10101010 task-clock:ppp: 
+	    6111a4e01163 busy_loop+0x1a (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.336785:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.346538:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.356305:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.366212:   10101010 task-clock:ppp: 
+	    6111a4e01167 busy_loop+0x1e (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.376943:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.387284:   10101010 task-clock:ppp: 
+	    6111a4e0116f busy_loop+0x26 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.397066:   10101010 task-clock:ppp: 
+	    6111a4e0115f busy_loop+0x16 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.406806:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
+demoCompiled    4633  1737.417248:   10101010 task-clock:ppp: 
+	    6111a4e0116b busy_loop+0x22 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011b5 work_light+0x12 (/home/olehpt/labs/lab4/demoCompiled)
+	    6111a4e011eb main+0x33 (/home/olehpt/labs/lab4/demoCompiled)
+	    7fee28c2a1ca __libc_start_call_main+0x7a (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    7fee28c2a28b __libc_start_main@@GLIBC_2.34+0x8b (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	    6111a4e01085 _start+0x25 (/home/olehpt/labs/lab4/demoCompiled)
+
